@@ -1,12 +1,107 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\controllers\\establishmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\controllers\\establishmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FB18E3-DDE1-47C6-8946-458696119062}|ProjectAPI.Tests\\ProjectAPI.Tests.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FB18E3-DDE1-47C6-8946-458696119062}|ProjectAPI.Tests\\ProjectAPI.Tests.csproj|solutionrelative:projectapi.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI.Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "ProjectAPI.Tests\\MSTestSettings.cs",
+              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI.Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "ProjectAPI.Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:48:06.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ProjectAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:35:42.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstablishmentController.cs",
+              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\EstablishmentController.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\EstablishmentController.cs",
+              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\EstablishmentController.cs",
+              "RelativeToolTip": "ProjectAPI\\Controllers\\EstablishmentController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwO4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:59:09.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProjectAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAgwK4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:59:08.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageHelper.cs",
+              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\ImageHelper.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\ImageHelper.cs",
+              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\ImageHelper.cs",
+              "RelativeToolTip": "ProjectAPI\\DTO\\ImageHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:04:00.077Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

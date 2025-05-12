@@ -4,8 +4,8 @@ using DAL;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using ProjectAPI.DTO;
 using System.Security.Claims;
+using System.Linq;
 
 namespace ProjectAPI.Controllers
 {
@@ -54,8 +54,8 @@ namespace ProjectAPI.Controllers
             spec.ComplexIncludes.Add(q => q.Include(o => o.OrderItems)
                              .ThenInclude(i => i.Product));
 
-            var currentOrder = unitOfWork.Repository<Order>().GetEntityWithSpec(spec);
-            if (currentOrder == null)
+            var currentOrder = unitOfWork.Repository<Order>().GetAllWithSpec(spec).ToList();
+            if (currentOrder == null || !currentOrder.Any())
                 return NotFound("No current order found.");
 
             //var currentOrderDTO = currentOrder.ToOrderDTO();

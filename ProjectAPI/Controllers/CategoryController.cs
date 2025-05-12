@@ -7,7 +7,7 @@ using Utilities;
 
 namespace ProjectAPI.Controllers
 {
-    [Authorize(Roles = SD.AdminRole)]
+    //[Authorize(Roles = SD.AdminRole)]
     [Route("api/[controller]")]
     [ApiController]
     public class CategoryController : ControllerBase

@@ -3,119 +3,24 @@
   "WorkspaceRootPath": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KKKM9RC_MSSQLSERVER1/RestaurantAPI/True/SqlTable/Security.Roles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3201511C-AC0B-48C0-96BD-5751AC6B36BF}|DAL\\DAL.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\dal\\migrations\\20250424145849_seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3201511C-AC0B-48C0-96BD-5751AC6B36BF}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20250424145849_seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3201511C-AC0B-48C0-96BD-5751AC6B36BF}|DAL\\DAL.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\dal\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3201511C-AC0B-48C0-96BD-5751AC6B36BF}|DAL\\DAL.csproj|solutionrelative:dal\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KKKM9RC_MSSQLSERVER1/RestaurantAPI/True/SqlTable/dbo.OrderItem.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KKKM9RC_MSSQLSERVER1/RestaurantAPI/True/SqlTable/dbo.Payment.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KKKM9RC_MSSQLSERVER1/RestaurantAPI/True/SqlTable/dbo.Establishments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\paymentorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\paymentorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\productratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\productratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\paymentstatusupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\paymentstatusupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\orderstatusupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\orderstatusupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3201511C-AC0B-48C0-96BD-5751AC6B36BF}|DAL\\DAL.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\dal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3201511C-AC0B-48C0-96BD-5751AC6B36BF}|DAL\\DAL.csproj|solutionrelative:dal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3201511C-AC0B-48C0-96BD-5751AC6B36BF}|DAL\\DAL.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3201511C-AC0B-48C0-96BD-5751AC6B36BF}|DAL\\DAL.csproj|solutionrelative:dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\establishmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\establishmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KKKM9RC_MSSQLSERVER1/RestaurantAPI/True/SqlTable/dbo.Categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60FB18E3-DDE1-47C6-8946-458696119062}|ProjectAPI.Tests\\ProjectAPI.Tests.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FB18E3-DDE1-47C6-8946-458696119062}|ProjectAPI.Tests\\ProjectAPI.Tests.csproj|solutionrelative:projectapi.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3201511C-AC0B-48C0-96BD-5751AC6B36BF}|DAL\\DAL.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3201511C-AC0B-48C0-96BD-5751AC6B36BF}|DAL\\DAL.csproj|solutionrelative:dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\controllers\\establishmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\controllers\\establishmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -125,382 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "profileDTO.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\profileDTO.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\profileDTO.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\profileDTO.cs",
-              "RelativeToolTip": "ProjectAPI\\DTO\\profileDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:46:32.924Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250424145849_SeedRoles.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\DAL\\Migrations\\20250424145849_SeedRoles.cs",
-              "RelativeDocumentMoniker": "DAL\\Migrations\\20250424145849_SeedRoles.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\DAL\\Migrations\\20250424145849_SeedRoles.cs",
-              "RelativeToolTip": "DAL\\Migrations\\20250424145849_SeedRoles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABQAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI.Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "ProjectAPI.Tests\\MSTestSettings.cs",
+              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI.Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "ProjectAPI.Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:34:27.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Security.Roles [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KKKM9RC_MSSQLSERVER1/RestaurantAPI/True/SqlTable/Security.Roles.sql",
-              "ToolTip": "Security.Roles [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-27T06:31:08.534Z",
+              "WhenOpened": "2025-05-08T03:48:06.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\AccountController.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "ProjectAPI\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAowKUAAAA/AAAAAAAAAA==",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\CategoryController.cs*",
+              "RelativeToolTip": "ProjectAPI\\Controllers\\CategoryController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:28:23.262Z",
+              "WhenOpened": "2025-04-30T09:35:42.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\UserDTO.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\UserDTO.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\UserDTO.cs",
-              "RelativeToolTip": "ProjectAPI\\DTO\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "EstablishmentController.cs",
+              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\EstablishmentController.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\EstablishmentController.cs",
+              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\EstablishmentController.cs",
+              "RelativeToolTip": "ProjectAPI\\Controllers\\EstablishmentController.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAgwO4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:25:55.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "dbo.OrderItem [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KKKM9RC_MSSQLSERVER1/RestaurantAPI/True/SqlTable/dbo.OrderItem.sql",
-              "ToolTip": "dbo.OrderItem [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-27T06:23:41.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "dbo.Payment [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KKKM9RC_MSSQLSERVER1/RestaurantAPI/True/SqlTable/dbo.Payment.sql",
-              "ToolTip": "dbo.Payment [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-27T06:23:03.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Program.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\Program.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Program.cs",
-              "RelativeToolTip": "ProjectAPI\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAWwCcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T05:54:34.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "dbo.Establishments [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KKKM9RC_MSSQLSERVER1/RestaurantAPI/True/SqlTable/dbo.Establishments.sql",
-              "ToolTip": "dbo.Establishments [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-27T06:19:46.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\CartController.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\CartController.cs",
-              "RelativeToolTip": "ProjectAPI\\Controllers\\CartController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAvwFcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:09:04.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CartDTO.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\CartDTO.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\CartDTO.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\CartDTO.cs",
-              "RelativeToolTip": "ProjectAPI\\DTO\\CartDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:08:47.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\DAL\\Models\\ShoppingCart.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\ShoppingCart.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\DAL\\Models\\ShoppingCart.cs",
-              "RelativeToolTip": "DAL\\Models\\ShoppingCart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:07:49.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ShoppingCartDTO.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\ShoppingCartDTO.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\ShoppingCartDTO.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\ShoppingCartDTO.cs",
-              "RelativeToolTip": "ProjectAPI\\DTO\\ShoppingCartDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:07:40.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RoleDTO.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\RoleDTO.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\RoleDTO.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\RoleDTO.cs",
-              "RelativeToolTip": "ProjectAPI\\DTO\\RoleDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:07:38.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ReviewDTO.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\ReviewDTO.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\ReviewDTO.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\ReviewDTO.cs",
-              "RelativeToolTip": "ProjectAPI\\DTO\\ReviewDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:07:32.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\RegisterDTO.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\RegisterDTO.cs",
-              "RelativeToolTip": "ProjectAPI\\DTO\\RegisterDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:07:30.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProductRateDTO.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\ProductRateDTO.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\ProductRateDTO.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\ProductRateDTO.cs",
-              "RelativeToolTip": "ProjectAPI\\DTO\\ProductRateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:07:28.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\ProductDTO.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\ProductDTO.cs",
-              "RelativeToolTip": "ProjectAPI\\DTO\\ProductDTO.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAUwAUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:07:21.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PaymentStatusUpdateRequest.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\PaymentStatusUpdateRequest.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\PaymentStatusUpdateRequest.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\PaymentStatusUpdateRequest.cs",
-              "RelativeToolTip": "ProjectAPI\\DTO\\PaymentStatusUpdateRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:07:19.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PaymentOrderDTO.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\PaymentOrderDTO.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\PaymentOrderDTO.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\PaymentOrderDTO.cs",
-              "RelativeToolTip": "ProjectAPI\\DTO\\PaymentOrderDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:07:16.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "OrderStatusUpdateRequestDTO.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\OrderStatusUpdateRequestDTO.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\OrderStatusUpdateRequestDTO.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\OrderStatusUpdateRequestDTO.cs",
-              "RelativeToolTip": "ProjectAPI\\DTO\\OrderStatusUpdateRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:07:13.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\DAL\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\OrderItem.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\DAL\\Models\\OrderItem.cs",
-              "RelativeToolTip": "DAL\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:05:16.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Order.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\DAL\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Order.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\DAL\\Models\\Order.cs",
-              "RelativeToolTip": "DAL\\Models\\Order.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:04:55.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "OrderDTO.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\OrderDTO.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\OrderDTO.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\OrderDTO.cs",
-              "RelativeToolTip": "ProjectAPI\\DTO\\OrderDTO.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:04:41.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "EstablishmentDTO.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\EstablishmentDTO.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\EstablishmentDTO.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\EstablishmentDTO.cs",
-              "RelativeToolTip": "ProjectAPI\\DTO\\EstablishmentDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:04:31.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T03:59:09.622Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateProductDTO.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\CreateProductDTO.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\CreateProductDTO.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\CreateProductDTO.cs",
-              "RelativeToolTip": "ProjectAPI\\DTO\\CreateProductDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProjectAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAgwK4AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:04:27.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T03:59:08.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Category.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\DAL\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Category.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\DAL\\Models\\Category.cs",
-              "RelativeToolTip": "DAL\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ImageHelper.cs",
+              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\ImageHelper.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\ImageHelper.cs",
+              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\ImageHelper.cs",
+              "RelativeToolTip": "ProjectAPI\\DTO\\ImageHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T06:00:07.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CategoryDTO.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\CategoryDTO.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\CategoryDTO.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\CategoryDTO.cs",
-              "RelativeToolTip": "ProjectAPI\\DTO\\CategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T05:59:56.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "dbo.Categories [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KKKM9RC_MSSQLSERVER1/RestaurantAPI/True/SqlTable/dbo.Categories.sql",
-              "ToolTip": "dbo.Categories [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-27T05:54:48.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\CategoryController.cs",
-              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "ProjectAPI\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAqwDkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T05:41:23.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T06:04:00.077Z"
             }
           ]
         }

@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using Stripe;
 using System.Text;
 using Utilities;
 
@@ -169,6 +170,9 @@ namespace ProjectAPI
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseRouting();
+
+            StripeConfiguration.ApiKey = builder.Configuration.GetSection("Stripe:Secretkey").Get<string>();
+
             app.UseCors("MyPolicy");
             app.UseAuthentication();
             app.UseAuthorization();
