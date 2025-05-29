@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\12eb4d52-c6e9-413b-b0ff-c6d14eca1d4a.PNG",
+      "PackagePath": "staticwebassets\\api\\uploads\\12eb4d52-c6e9-413b-b0ff-c6d14eca1d4a.PNG"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\3af33189-f477-474b-a0a6-9ec70542166e.PNG",
+      "PackagePath": "staticwebassets\\api\\uploads\\3af33189-f477-474b-a0a6-9ec70542166e.PNG"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\6ff9bddc-0cfb-4810-a700-44daea8b62e5.PNG",
+      "PackagePath": "staticwebassets\\api\\uploads\\6ff9bddc-0cfb-4810-a700-44daea8b62e5.PNG"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\bbb41de7-9fbe-4ecd-845d-8d3bf8d56ef6.PNG",
+      "PackagePath": "staticwebassets\\api\\uploads\\bbb41de7-9fbe-4ecd-845d-8d3bf8d56ef6.PNG"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\c31c9856-5c63-45de-a5cc-bf684a3562a5.PNG",
+      "PackagePath": "staticwebassets\\api\\uploads\\c31c9856-5c63-45de-a5cc-bf684a3562a5.PNG"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\c7102b38-7d0b-4b98-a5f4-3915bd0ece7c.PNG",
+      "PackagePath": "staticwebassets\\api\\uploads\\c7102b38-7d0b-4b98-a5f4-3915bd0ece7c.PNG"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\c947fa78-34f9-44a2-9654-f3a5dc3f52ff.PNG",
+      "PackagePath": "staticwebassets\\api\\uploads\\c947fa78-34f9-44a2-9654-f3a5dc3f52ff.PNG"
+    },
+    {
+      "Id": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\dfd33b99-6277-4312-991c-5f06e463f61f.PNG",
+      "PackagePath": "staticwebassets\\api\\uploads\\dfd33b99-6277-4312-991c-5f06e463f61f.PNG"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProjectAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProjectAPI.props",
+      "PackagePath": "build\\ProjectAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectAPI.props",
+      "PackagePath": "buildMultiTargeting\\ProjectAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProjectAPI.props",
+      "PackagePath": "buildTransitive\\ProjectAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

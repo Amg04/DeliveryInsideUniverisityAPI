@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "7yuSMqgEM9vP1Yg6iGdbPSazSIP1QWuIM9hvh01zQBg=",
+  "Source": "ProjectAPI",
+  "BasePath": "_content/ProjectAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjectAPI\\wwwroot",
+      "Source": "ProjectAPI",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\",
+      "BasePath": "_content/ProjectAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\12eb4d52-c6e9-413b-b0ff-c6d14eca1d4a.PNG",
+      "SourceId": "ProjectAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\",
+      "BasePath": "_content/ProjectAPI",
+      "RelativePath": "api/uploads/12eb4d52-c6e9-413b-b0ff-c6d14eca1d4a#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qw9mm4lp38",
+      "Integrity": "qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\uploads\\12eb4d52-c6e9-413b-b0ff-c6d14eca1d4a.PNG"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\3af33189-f477-474b-a0a6-9ec70542166e.PNG",
+      "SourceId": "ProjectAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\",
+      "BasePath": "_content/ProjectAPI",
+      "RelativePath": "api/uploads/3af33189-f477-474b-a0a6-9ec70542166e#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3ifvtlzuz3",
+      "Integrity": "xT4ppvWiakPsbbBCrwc/+h28rRwQHah7ANpcVE/mQyA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\uploads\\3af33189-f477-474b-a0a6-9ec70542166e.PNG"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\6ff9bddc-0cfb-4810-a700-44daea8b62e5.PNG",
+      "SourceId": "ProjectAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\",
+      "BasePath": "_content/ProjectAPI",
+      "RelativePath": "api/uploads/6ff9bddc-0cfb-4810-a700-44daea8b62e5#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sdclfnqkq2",
+      "Integrity": "EAN1AMt8mK2yX+qRZ5jHwd6fbg9IZbVP5+YZGuN4cSg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\uploads\\6ff9bddc-0cfb-4810-a700-44daea8b62e5.PNG"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\bbb41de7-9fbe-4ecd-845d-8d3bf8d56ef6.PNG",
+      "SourceId": "ProjectAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\",
+      "BasePath": "_content/ProjectAPI",
+      "RelativePath": "api/uploads/bbb41de7-9fbe-4ecd-845d-8d3bf8d56ef6#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qw9mm4lp38",
+      "Integrity": "qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\uploads\\bbb41de7-9fbe-4ecd-845d-8d3bf8d56ef6.PNG"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\c31c9856-5c63-45de-a5cc-bf684a3562a5.PNG",
+      "SourceId": "ProjectAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\",
+      "BasePath": "_content/ProjectAPI",
+      "RelativePath": "api/uploads/c31c9856-5c63-45de-a5cc-bf684a3562a5#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qw9mm4lp38",
+      "Integrity": "qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\uploads\\c31c9856-5c63-45de-a5cc-bf684a3562a5.PNG"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\c7102b38-7d0b-4b98-a5f4-3915bd0ece7c.PNG",
+      "SourceId": "ProjectAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\",
+      "BasePath": "_content/ProjectAPI",
+      "RelativePath": "api/uploads/c7102b38-7d0b-4b98-a5f4-3915bd0ece7c#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qw9mm4lp38",
+      "Integrity": "qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\uploads\\c7102b38-7d0b-4b98-a5f4-3915bd0ece7c.PNG"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\c947fa78-34f9-44a2-9654-f3a5dc3f52ff.PNG",
+      "SourceId": "ProjectAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\",
+      "BasePath": "_content/ProjectAPI",
+      "RelativePath": "api/uploads/c947fa78-34f9-44a2-9654-f3a5dc3f52ff#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "za5l7hporf",
+      "Integrity": "5RajVhJMJ0fDG8RTB3ecbbm1iij2bKyNLxMGcMXF+U0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\uploads\\c947fa78-34f9-44a2-9654-f3a5dc3f52ff.PNG"
+    },
+    {
+      "Identity": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\dfd33b99-6277-4312-991c-5f06e463f61f.PNG",
+      "SourceId": "ProjectAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\",
+      "BasePath": "_content/ProjectAPI",
+      "RelativePath": "api/uploads/dfd33b99-6277-4312-991c-5f06e463f61f#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qw9mm4lp38",
+      "Integrity": "qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api\\uploads\\dfd33b99-6277-4312-991c-5f06e463f61f.PNG"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "api/uploads/12eb4d52-c6e9-413b-b0ff-c6d14eca1d4a.PNG",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\12eb4d52-c6e9-413b-b0ff-c6d14eca1d4a.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 06:55:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc="
+        }
+      ]
+    },
+    {
+      "Route": "api/uploads/12eb4d52-c6e9-413b-b0ff-c6d14eca1d4a.qw9mm4lp38.PNG",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\12eb4d52-c6e9-413b-b0ff-c6d14eca1d4a.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 06:55:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qw9mm4lp38"
+        },
+        {
+          "Name": "label",
+          "Value": "api/uploads/12eb4d52-c6e9-413b-b0ff-c6d14eca1d4a.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc="
+        }
+      ]
+    },
+    {
+      "Route": "api/uploads/3af33189-f477-474b-a0a6-9ec70542166e.3ifvtlzuz3.PNG",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\3af33189-f477-474b-a0a6-9ec70542166e.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xT4ppvWiakPsbbBCrwc/+h28rRwQHah7ANpcVE/mQyA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 06:52:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ifvtlzuz3"
+        },
+        {
+          "Name": "label",
+          "Value": "api/uploads/3af33189-f477-474b-a0a6-9ec70542166e.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xT4ppvWiakPsbbBCrwc/+h28rRwQHah7ANpcVE/mQyA="
+        }
+      ]
+    },
+    {
+      "Route": "api/uploads/3af33189-f477-474b-a0a6-9ec70542166e.PNG",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\3af33189-f477-474b-a0a6-9ec70542166e.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xT4ppvWiakPsbbBCrwc/+h28rRwQHah7ANpcVE/mQyA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 06:52:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xT4ppvWiakPsbbBCrwc/+h28rRwQHah7ANpcVE/mQyA="
+        }
+      ]
+    },
+    {
+      "Route": "api/uploads/6ff9bddc-0cfb-4810-a700-44daea8b62e5.PNG",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\6ff9bddc-0cfb-4810-a700-44daea8b62e5.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "644438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EAN1AMt8mK2yX+qRZ5jHwd6fbg9IZbVP5+YZGuN4cSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 06:51:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EAN1AMt8mK2yX+qRZ5jHwd6fbg9IZbVP5+YZGuN4cSg="
+        }
+      ]
+    },
+    {
+      "Route": "api/uploads/6ff9bddc-0cfb-4810-a700-44daea8b62e5.sdclfnqkq2.PNG",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\6ff9bddc-0cfb-4810-a700-44daea8b62e5.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "644438"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EAN1AMt8mK2yX+qRZ5jHwd6fbg9IZbVP5+YZGuN4cSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 06:51:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sdclfnqkq2"
+        },
+        {
+          "Name": "label",
+          "Value": "api/uploads/6ff9bddc-0cfb-4810-a700-44daea8b62e5.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EAN1AMt8mK2yX+qRZ5jHwd6fbg9IZbVP5+YZGuN4cSg="
+        }
+      ]
+    },
+    {
+      "Route": "api/uploads/bbb41de7-9fbe-4ecd-845d-8d3bf8d56ef6.PNG",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\bbb41de7-9fbe-4ecd-845d-8d3bf8d56ef6.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 06:53:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc="
+        }
+      ]
+    },
+    {
+      "Route": "api/uploads/bbb41de7-9fbe-4ecd-845d-8d3bf8d56ef6.qw9mm4lp38.PNG",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\bbb41de7-9fbe-4ecd-845d-8d3bf8d56ef6.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 06:53:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qw9mm4lp38"
+        },
+        {
+          "Name": "label",
+          "Value": "api/uploads/bbb41de7-9fbe-4ecd-845d-8d3bf8d56ef6.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc="
+        }
+      ]
+    },
+    {
+      "Route": "api/uploads/c31c9856-5c63-45de-a5cc-bf684a3562a5.PNG",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\c31c9856-5c63-45de-a5cc-bf684a3562a5.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 06:53:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc="
+        }
+      ]
+    },
+    {
+      "Route": "api/uploads/c31c9856-5c63-45de-a5cc-bf684a3562a5.qw9mm4lp38.PNG",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\c31c9856-5c63-45de-a5cc-bf684a3562a5.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 06:53:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qw9mm4lp38"
+        },
+        {
+          "Name": "label",
+          "Value": "api/uploads/c31c9856-5c63-45de-a5cc-bf684a3562a5.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc="
+        }
+      ]
+    },
+    {
+      "Route": "api/uploads/c7102b38-7d0b-4b98-a5f4-3915bd0ece7c.PNG",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\c7102b38-7d0b-4b98-a5f4-3915bd0ece7c.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 06:53:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc="
+        }
+      ]
+    },
+    {
+      "Route": "api/uploads/c7102b38-7d0b-4b98-a5f4-3915bd0ece7c.qw9mm4lp38.PNG",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\c7102b38-7d0b-4b98-a5f4-3915bd0ece7c.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 06:53:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qw9mm4lp38"
+        },
+        {
+          "Name": "label",
+          "Value": "api/uploads/c7102b38-7d0b-4b98-a5f4-3915bd0ece7c.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc="
+        }
+      ]
+    },
+    {
+      "Route": "api/uploads/c947fa78-34f9-44a2-9654-f3a5dc3f52ff.PNG",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\c947fa78-34f9-44a2-9654-f3a5dc3f52ff.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "242307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5RajVhJMJ0fDG8RTB3ecbbm1iij2bKyNLxMGcMXF+U0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 06:55:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5RajVhJMJ0fDG8RTB3ecbbm1iij2bKyNLxMGcMXF+U0="
+        }
+      ]
+    },
+    {
+      "Route": "api/uploads/c947fa78-34f9-44a2-9654-f3a5dc3f52ff.za5l7hporf.PNG",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\c947fa78-34f9-44a2-9654-f3a5dc3f52ff.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "242307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5RajVhJMJ0fDG8RTB3ecbbm1iij2bKyNLxMGcMXF+U0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 06:55:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "za5l7hporf"
+        },
+        {
+          "Name": "label",
+          "Value": "api/uploads/c947fa78-34f9-44a2-9654-f3a5dc3f52ff.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5RajVhJMJ0fDG8RTB3ecbbm1iij2bKyNLxMGcMXF+U0="
+        }
+      ]
+    },
+    {
+      "Route": "api/uploads/dfd33b99-6277-4312-991c-5f06e463f61f.PNG",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\dfd33b99-6277-4312-991c-5f06e463f61f.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 06:53:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc="
+        }
+      ]
+    },
+    {
+      "Route": "api/uploads/dfd33b99-6277-4312-991c-5f06e463f61f.qw9mm4lp38.PNG",
+      "AssetFile": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\wwwroot\\api\\uploads\\dfd33b99-6277-4312-991c-5f06e463f61f.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 06:53:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qw9mm4lp38"
+        },
+        {
+          "Name": "label",
+          "Value": "api/uploads/dfd33b99-6277-4312-991c-5f06e463f61f.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qtFRk0NZvPJv0vonqhNupHfk/xtuk/KjOjFbsvSGYzc="
+        }
+      ]
+    }
+  ]
+}

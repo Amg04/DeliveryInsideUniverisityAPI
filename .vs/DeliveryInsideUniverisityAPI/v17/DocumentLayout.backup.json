@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KKKM9RC_MSSQLSERVER1/RestaurantAPI/True/SqlTable/Security.UserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KKKM9RC_MSSQLSERVER1/RestaurantAPI/True/SqlTable/Security.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\roledtos\\updateuserrolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\roledtos\\updateuserrolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\usermanagementdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\usermanagementdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\projectapi\\dto\\usermanagementdtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F2E2F2-7D30-4652-B2B1-157EB4291B98}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dto\\usermanagementdtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1722CD0-36C3-43A7-B016-0F86AF275061}|Utilities\\Utilities.csproj|e:\\track\\tectnical\\mvc\\projects\\p2\\deliveryinsideuniverisityapi\\utilities\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1722CD0-36C3-43A7-B016-0F86AF275061}|Utilities\\Utilities.csproj|solutionrelative:utilities\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Security.UserRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KKKM9RC_MSSQLSERVER1/RestaurantAPI/True/SqlTable/Security.UserRoles.sql",
+              "ToolTip": "Security.UserRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-29T15:20:57.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Security.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KKKM9RC_MSSQLSERVER1/RestaurantAPI/True/SqlTable/Security.Users.sql",
+              "ToolTip": "Security.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-29T15:16:25.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateUserRolesDTO.cs",
+              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\RoleDTOs\\UpdateUserRolesDTO.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\RoleDTOs\\UpdateUserRolesDTO.cs",
+              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\RoleDTOs\\UpdateUserRolesDTO.cs",
+              "RelativeToolTip": "ProjectAPI\\DTO\\RoleDTOs\\UpdateUserRolesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:05:03.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\RoleController.cs",
+              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "ProjectAPI\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAuwKMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:03:15.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ProjectAPI\\Controllers\\CartController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwDYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:56:22.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SD.cs",
+              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\Utilities\\SD.cs",
+              "RelativeDocumentMoniker": "Utilities\\SD.cs",
+              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\Utilities\\SD.cs",
+              "RelativeToolTip": "Utilities\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:50:47.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\UserManagementDTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\UserManagementDTOs\\UserDTO.cs",
+              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\UserManagementDTOs\\UserDTO.cs",
+              "RelativeToolTip": "ProjectAPI\\DTO\\UserManagementDTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:48:12.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\UserManagementDTOs\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\DTO\\UserManagementDTOs\\CreateUserDTO.cs",
+              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\DTO\\UserManagementDTOs\\CreateUserDTO.cs",
+              "RelativeToolTip": "ProjectAPI\\DTO\\UserManagementDTOs\\CreateUserDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:44:33.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManagementController.cs",
+              "DocumentMoniker": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\UserManagementController.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\UserManagementController.cs",
+              "ToolTip": "E:\\track\\tectnical\\MVC\\projects\\p2\\DeliveryInsideUniverisityAPI\\ProjectAPI\\Controllers\\UserManagementController.cs",
+              "RelativeToolTip": "ProjectAPI\\Controllers\\UserManagementController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwEAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:15:29.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
